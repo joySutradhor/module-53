@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Premium Coffee",
+      "features": ["Rich Aroma", "Smooth Taste", "Dark Roast"],
+      "price": 12.99
+    },
+    {
+      "id": 2,
+      "name": "Organic Tea",
+      "features": ["Natural Flavor", "Fair Trade", "Eco-Friendly"],
+      "price": 7.99
+    },
+    {
+      "id": 3,
+      "name": "Healthy Snacks",
+      "features": ["Low Fat", "Gluten Free", "High Protein"],
+      "price": 3.49
+    },
+    {
+      "id": 4,
+      "name": "Luxury Watches",
+      "features": ["Swiss Movement", "Sapphire Crystal", "Stainless Steel"],
+      "price": 4999.99
+    },
+    {
+      "id": 5,
+      "name": "Premium Headphones",
+      "features": ["Noise Cancelling", "High Fidelity", "Wireless"],
+      "price": 349.99
+    }, 
+    {
+      "id": 6,
+      "name": "Premium ",
+      "features": ["Noise Cancelling",  "Wireless"],
+      "price": 345.99
+    }
+  ]
+  
